@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+kazoo==2.6.1
+pure-sasl==0.5.1
+six==1.16.0
